@@ -1,6 +1,6 @@
 <?php
 /**
- *
+ * @str stirng      conteúdo que se deseja gerar o soundex 
  */
 include 'classes/Soundex.php';
 $obj = new Soundex;
