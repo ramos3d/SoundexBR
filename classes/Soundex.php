@@ -10,9 +10,9 @@
 *
 * 	PHP7.3
 *
-*	@author:	Marcelo Ramos Soares
-*	@site:	 	https://ramos3d.com
-*
+*	@author		Marcelo Ramos Soares
+*	@site	 	https://ramos3d.com
+*	@License	GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 ***/
 class Soundex{
 	################################################################################
